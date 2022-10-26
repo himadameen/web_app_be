@@ -1,1 +1,1 @@
-<h1>Entertainment Web Application - Backend</h1>
+<h1>Entertainment Web App - Backend</h1>
