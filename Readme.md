@@ -1,12 +1,17 @@
 <h1>Entertainment Web App</h1>
+
 <div>
     This Project deals with the basic entertainment which user can upload their photo's give caption and comments on those post.
 
     User can use this app friendly which is customize and easy to handle. 
 </div>
+
 <h3>Tech Stack</h3>
+
 <h6>React JS, Node JS, Express, Mongo DB</h6>
+
 <div>Process :</div>
+
 <div>
     1. First part decided to design the layout of the entire components to get userInterface cleanly.by using Material UI design it becomes very easy to define the some components make user to use easily.
 
