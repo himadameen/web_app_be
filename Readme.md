@@ -34,10 +34,7 @@ So, thus the entire process and plan for building the project using Onion archit
     b. Service layer [CRUD]
     c. Repository 
     d. Domain registered
-
-
 </h6>
-
 
 <div>
     <h6>Backend Procedure</h6>
