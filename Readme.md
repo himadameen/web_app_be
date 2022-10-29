@@ -26,14 +26,18 @@
     6. My getting all those data of server and client side which to work on those entities which is correctly working or not and publish in the server.
 
     7. Find the domain registered and publish the project which is organized and get the domain name and use the application efficiently.
+</div>
 
- So, thus the entire process and plan for building the project using Onion architecture method.such as:
+<h6>
+So, thus the entire process and plan for building the project using Onion architecture method.such as:
     a. UserInterface layer
     b. Service layer [CRUD]
     c. Repository 
     d. Domain registered
 
-</div>
+
+</h6>
+
 
 <div>
     <h6>Backend Procedure</h6>
